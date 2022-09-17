@@ -5,9 +5,6 @@ I'm a software developer passionate about using technology to tackle problems in
 
 I love exploring new technologies. I like to be on top of advances in innovation going on in different fields. Even if I don't understand much of the technical details, it's fun to discover new toys and create with them. When I'm not coding, you can find me playing chess, reading books and listening to music.
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabishkaryal&layout=compact&theme=dark&hide_border=true" /></a>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aabishkaryal&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
 
 ## My Tools:
